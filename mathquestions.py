@@ -132,7 +132,7 @@ def sqrt():
     
 def selection():
     print()
-    print("cool random math questions by logan brown:")
+    print("cool random math questions by jinxthecat412:")
     print()
     print("1. Addition")
     print("2. Subtraction")
@@ -170,3 +170,4 @@ def selection():
     return("")
 
 print(selection())
+
