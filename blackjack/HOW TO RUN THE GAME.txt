@@ -1,0 +1,11 @@
+REQUIREMENTS:
+PowerShell (any version works)
+Latest Java version
+
+HOW TO RUN THE GAME:
+In PowerShell first make sure java had properly installed with the command "java -version" (without quotations)
+
+First set the directory with the command "cd (the location of the file)" without the parentheses
+Then run the command "java blackjackrunner"
+
+Now you should be able to play!! 
